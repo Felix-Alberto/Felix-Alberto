@@ -13,7 +13,7 @@
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="right" alt="Felix-pic" height="150" style="border-radius:50px;" src="blob:https://web.whatsapp.com/10e7937e-1fc1-48d4-a928-6d107edb696c">
+   <img align="right" alt="Felix-pic" height="150" style="border-radius:50px;" src="https://www.photofunky.net/output/image/b/0/7/9/b0798f/photofunky.gif">
 </div>
 
  ## 
