@@ -1,8 +1,10 @@
-## Olá! eu sou Félix Alberto, criador de conteúdo de programação!
+
+## Olá! Eu sou Félix Alberto, um desenvolvedor full stack apaixonado por criar conteúdo de programação!
+
 <div align="center">
   <a href="https://www.linkedin.com/in/felix-montero-022a86107/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felix-Alberto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Alberto&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felix-Alberto&layout=compact&langs_count=16&theme=dracula"/>
   
 </div>
 
@@ -11,9 +13,13 @@
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Dev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dev-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Dev-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="center" alt="Dev-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-   <img align="right" alt="Felix-pic" height="150" style="border-radius:50px;" src="https://www.photofunky.net/output/image/b/0/7/9/b0798f/photofunky.gif">
+  <img align="center" alt="Dev-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Dev-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
+  <img align="center" alt="Dev-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  <img align="center" alt="Dev-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  <img align="right" alt="Felix-pic" height="150" style="border-radius:50px;" src="https://www.photofunky.net/output/image/b/0/7/9/b0798f/photofunky.gif">
 </div>
 
  ## 
