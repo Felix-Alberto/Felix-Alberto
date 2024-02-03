@@ -13,7 +13,7 @@
 <div> 
  
 
- [![Felix-alberto github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felix-Alberto&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/Felix-Alberto/github-readme-activity-graph)
+ [![Felix-alberto github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Felix-Alberto&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/Felix-Alberto)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Dev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
